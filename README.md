@@ -4,13 +4,13 @@
 - 实现登录，发表想法，上传图片，分享视频等功能。
 - 使用Firebase存储用户信息与部署。
 
-## 技术栈
+## 技术栈:
  - JS (React) 
  - Redux
  - Styled Components
  - Firebase
 
-## 项目结构
+## 项目结构:
 
 ```txt
 └─── be    
@@ -23,7 +23,7 @@
         └── store        # Redux
 ```
 
-## :下载与使用
+## 下载与使用
 ```bash
 # Clone项目
 git clone git@github.com:yshang616/linkedin-clone.git
