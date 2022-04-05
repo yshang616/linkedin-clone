@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+storage.rules
+firebase.rules
+firebase.indexes.json
+database.rules.json
+remoteconfig.template.json
