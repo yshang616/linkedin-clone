@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { connect } from 'react-redux';
 import { signOutAPI } from '../actions';
-import { Link } from 'react-router-dom';
+import { Navigate } from 'react-router-dom';
 
 const Header = (props) => {
     return (
